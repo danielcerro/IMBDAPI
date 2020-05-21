@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MEMETFLIX</string>
+    <string name="titulo">Memetflix</string>
+    <string name="lista">Lista</string>
+    <string name="Titulo_lista">Lista de pelicula</string>
+    <string name="Titulo_pelicula">Titulo :</string>
+    <string name="descripcion">Descripción :</string>
+    <string name="id">Identificación:</string>
+    <string name="connect">conexcion</string>
+    <string name="hint">Digite el nombre de la pelicula o serie</string>
+    <string name="texto_banco">Bienvenido a Memetflix la base de datos mas grande de peliculas y series del mundo.</string>
+</resources>
